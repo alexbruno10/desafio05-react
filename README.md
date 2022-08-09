@@ -6,7 +6,7 @@
   <a href="https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-projeto-do-zero">Template da aplicação</a>
 </p>
 <p align="center">
-  Desafio: Criando uma aplicação do zero
+  Desafio: criar um blog do zero, seguindo a interface disponibilizada no Figma e consumindo os dados do Prismic.
 </p>
 
 ## 🚀 Como executar
